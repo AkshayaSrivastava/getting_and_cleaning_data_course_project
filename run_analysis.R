@@ -1,3 +1,4 @@
+# Coursera- Getting and Cleaning Data- Course Project
 # Author: Akshaya Srivastava
 # TODO: Getting and Cleaning Data Course Project
 # - gather and combine data from UCI HAR data
